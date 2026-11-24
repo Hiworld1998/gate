@@ -59,10 +59,10 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
     "cdn.7zz.cn:443",
-    "www.speedtest.net:443",
+    "unpkg.com:443:443",
     "pubs.acs.org:443",
     "hzytjy.cn:443",
-    "cf.0sm.com:443",
+    "kali.download:443",
     "saas.sin.fan:443",
     "www.mfyx.cn:443",
     "cf.nyanya.moe:443",
